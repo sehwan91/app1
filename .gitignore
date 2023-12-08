@@ -11,6 +11,9 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
+mvnw
+mvnw.cmd
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
